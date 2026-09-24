@@ -19,10 +19,7 @@ A Python tool for processing invoice images and PDFs, extracting fields with OCR
 
 [Repository](https://github.com/happywht/ai_ocr_version01)
 
-### Engineering Project Financial Calculator
-A project finance and management application for engineering projects. It calculates model outputs from editable assumptions, keeps calculation versions, and exports versioned XLSX reports.
 
-[Repository](https://github.com/happywht/financial-calculator)
 
 ## Additional software project
 
