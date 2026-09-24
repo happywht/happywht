@@ -24,6 +24,10 @@ A project finance and management application for engineering projects. It calcul
 
 [Repository](https://github.com/happywht/financial-calculator)
 
+## Additional software project
+
+[MiniMax Code](https://github.com/happywht/minimax-code) is a local-first personal AI coding agent with a Python agent and a React/TypeScript web interface. Its README currently labels the project “Internal use only,” so I list it separately from the AEC open-source tools.
+
 ## Other project
 
 [Muse — Novel Architect](https://github.com/happywht/novel_muse) is an AI-assisted workspace for planning long-form fiction, including world building, character development, plot planning, and drafting.
