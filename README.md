@@ -21,9 +21,9 @@ A Python tool for processing invoice images and PDFs, extracting fields with OCR
 
 
 
-## Additional software project
+## Additional open-source project
 
-[MiniMax Code](https://github.com/happywht/minimax-code) is a local-first personal AI coding agent with a Python agent and a React/TypeScript web interface. Its README currently labels the project “Internal use only,” so I list it separately from the AEC open-source tools.
+[MiniMax Code](https://github.com/happywht/minimax-code) is an Apache-2.0-licensed, local-first AI coding agent with a Python agent and a React/TypeScript web interface. It is a separate open-source project alongside my AEC document automation tools.
 
 ## Other project
 
@@ -32,3 +32,4 @@ A Python tool for processing invoice images and PDFs, extracting fields with OCR
 ## What I’m working toward
 
 I want to make useful, maintainable tools available to engineering teams that still spend too much time moving information between drawings, PDFs, and spreadsheets. I welcome issue reports and contributions that improve setup, reliability, documentation, and support for real-world file variations.
+
