@@ -1,6 +1,6 @@
-# Haitao | Open-source AEC & document automation
+# Haitao | AEC & document automation
 
-I build practical software for architecture, engineering, and construction workflows. My current focus is reducing repetitive document work around CAD drawings, OCR, and engineering project data.
+I build and maintain public software projects for architecture, engineering, and construction workflows. My current focus is reducing repetitive document work around CAD drawings, OCR, and engineering project data.
 
 ## Featured projects
 
